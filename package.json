@@ -1,0 +1,20 @@
+{
+  "name": "logeshwaran-portfolio",
+  "version": "1.0.0",
+  "description": "Professional Portfolio with Three.js",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^3.12.1",
+    "gsap": "^3.13.0",
+    "three": "^0.153.0",
+    "typed.js": "^2.1.0"
+  },
+  "devDependencies": {
+    "vite": "^4.3.9"
+  }
+}
